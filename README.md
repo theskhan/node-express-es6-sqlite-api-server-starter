@@ -10,7 +10,7 @@ npm install
 ```bash
 npm start
 ```
-### Visiting following url
+### Visit following url
 ```bash
 http://localhost:9001/api/employees
 ```
