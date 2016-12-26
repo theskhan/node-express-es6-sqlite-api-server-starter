@@ -10,5 +10,10 @@ npm install
 ```bash
 npm start
 ```
+### Visiting following url
+```bash
+http://localhost:9001/api/employees
+```
+Sample SqlLite database file 'main.db3' is already provided.
 
 #### Recommended to use VSCode Editor for NodeJs development.
